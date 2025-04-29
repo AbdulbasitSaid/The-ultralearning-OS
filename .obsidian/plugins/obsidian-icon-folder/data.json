@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiTemplate",
       "SiObsidian",
       "FasDatabase",
       "SiYoutube",
-      "LiLayoutTemplate",
-      "LiAlignVerticalJustifyCenter"
+      "LiLayoutTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,7 +43,7 @@
   "Resources": "🛍",
   "System Design": "LiAlignVerticalJustifyCenter",
   "Devlogs": "SiYoutube",
-  "Template": "LiLayoutTemplate",
   "Database Design and Management using postgress": "FasDatabase",
-  "Obsidian tip and tricks": "SiObsidian"
+  "Obsidian tip and tricks": "SiObsidian",
+  "Templates": "TiTemplate"
 }
