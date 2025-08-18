@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Rust basic.md",
-                "mode": "source",
+                "file": "Rust/Getting started with rust.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust basic"
+              "title": "Getting started with rust"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "2fbfbaa540621431",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 76.01918465227818,
         "children": [
           {
             "id": "0cb3e4c3c3ed522e",
@@ -90,7 +90,7 @@
       {
         "id": "ad08973c39815b8e",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 23.980815347721823,
         "children": [
           {
             "id": "81a15d9fd28a0f12",
@@ -219,8 +219,9 @@
   },
   "active": "b91e93020ffa77e7",
   "lastOpenFiles": [
+    "Rust/Rust basic 1.md",
+    "Rust/Getting started with rust.md",
     "Templates/📆 Daily Study Log.md",
-    "Rust/Rust basic.md",
     "Templates/🧠 Week {{number}} Reflection.md",
     "Untitled 1.md",
     "Rust/Rust Nots.md",
