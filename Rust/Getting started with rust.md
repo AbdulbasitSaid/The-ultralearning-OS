@@ -10,6 +10,7 @@
 - To run your project, you can either ``cargo build --> ./target/<program name>`` or run ``cargo run``, which effectively builds and runs your program. 
 - Adding ``--release`` to build generates your optimised release program for distribution.
 - You can use the ``cargo check`` command to check if your code can be compiled without running the program.
+- You can also use the ``cargo init`` command to generate your project in an existing folder.
 - When you use the `cargo new `command, it creates a folder structure in the following diagram:
 
  

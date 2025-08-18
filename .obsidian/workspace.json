@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Rust/Getting started with rust.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -219,8 +219,8 @@
   },
   "active": "b91e93020ffa77e7",
   "lastOpenFiles": [
-    "Untitled.md",
     "Rust/Getting started with rust.md",
+    "Untitled.md",
     "Rust/Rust basic 1.md",
     "Templates/📆 Daily Study Log.md",
     "Templates/🧠 Week {{number}} Reflection.md",
