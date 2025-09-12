@@ -1,5 +1,5 @@
 ## 📖 What I studied today:
-- Rust Topic: Introduction to Rust
+- Rust Topic: Introduction to Rust and Cargo basics
 - Installation, Cargo and creating the first Rust project
 
 ## 🧠 Key Learnings:

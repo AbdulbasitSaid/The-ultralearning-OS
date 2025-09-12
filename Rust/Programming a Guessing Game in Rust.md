@@ -1,0 +1,22 @@
+Date: Monday, August 18, 2025
+## 📖 What I studied today:
+- Rust Topic:
+- Math Topic:
+- Problem-Solving Focus:
+- DSA Topic:
+- System Design Sketch (if any):
+
+## 🧠 Key Learnings:
+- 
+
+## 🧩 Problems I Faced:
+- 
+
+## 🚀 Breakthroughs and Solutions:
+- 
+
+## 📓 Devlog Ideas:
+- 
+
+## 🎯 Tomorrow's Focus:
+- 

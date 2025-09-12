@@ -1,21 +1,18 @@
+Date: {{date:dddd, MMMM DD, YYYY}}
 ## 📖 What I studied today:
-- Rust Topic:
-- Math Topic:
-- Problem-Solving Focus:
-- DSA Topic:
-- System Design Sketch (if any):
+- {{topic}}:
 
 ## 🧠 Key Learnings:
-- 
+- {{key-learning}}
 
 ## 🧩 Problems I Faced:
-- 
+- {{problem-faced}}
 
 ## 🚀 Breakthroughs and Solutions:
-- 
+- {{solution}}
 
 ## 📓 Devlog Ideas:
-- 
+- {{devlog-idea}}
 
 ## 🎯 Tomorrow's Focus:
-- 
+- {{tomorrow-focus}}
