@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4e8d2da0d510907c",
+        "id": "1868dbb3f771c9b2",
         "type": "tabs",
         "children": [
           {
-            "id": "b91e93020ffa77e7",
+            "id": "cc441a8ec710089b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Getting started with rust.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Getting started with rust"
-            }
-          },
-          {
-            "id": "2a8264e8fc391c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/📆 Daily Study Log {{date}}.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📆 Daily Study Log {{date}}"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +29,7 @@
       {
         "id": "2fbfbaa540621431",
         "type": "tabs",
-        "dimension": 76.01918465227818,
+        "dimension": 50.32918800292611,
         "children": [
           {
             "id": "0cb3e4c3c3ed522e",
@@ -67,10 +48,14 @@
             "id": "a04e2feeddfccf0c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LICENSE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LICENSE"
             }
           },
           {
@@ -105,7 +90,7 @@
       {
         "id": "ad08973c39815b8e",
         "type": "tabs",
-        "dimension": 23.980815347721823,
+        "dimension": 49.67081199707389,
         "children": [
           {
             "id": "81a15d9fd28a0f12",
@@ -183,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -211,6 +195,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "00af8012b8572b50",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
         "currentTab": 5
@@ -230,19 +224,29 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "2a8264e8fc391c6e",
+  "active": "fac8a3b02fffb4a6",
   "lastOpenFiles": [
-    "Templates/🧠 Week {{number}} Reflection.md",
-    "Templates/📆 Daily Study Log {{date}}.md",
     "Untitled.canvas",
-    "Rust/Getting started with rust.md",
+    "Untitled.base",
+    "LICENSE.md",
+    "Rust/Hello world rust.md",
+    "Templates/📆 Daily Study Log {{date}}.md",
     "Rust/Programming a Guessing Game in Rust.md",
-    "Templates/🚀 Project {{Project Name}}.md",
-    "Rust/Rust basic 1.md",
+    "2025-11-05.md",
     "Untitled 1.md",
+    "Rust/Getting started with Rust.md",
+    "Templates/🧠 Week {{number}} Reflection.md",
+    "Templates/🚀 Project {{Project Name}}.md",
+    "Critical thinking/Critical thinking part 1.md",
+    "Critical thinking",
+    "Rust/Rust basic 1.md",
     "Rust/Rust Nots.md",
     "README.md",
     "Templates",
@@ -256,8 +260,6 @@
     "Devlogs",
     "System Design",
     "Design Patterns",
-    "Data Structures and Algorithms",
-    "Problem Solving",
     "2025-04-27.md",
     "Untitled 1.canvas"
   ]
