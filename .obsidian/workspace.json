@@ -11,10 +11,14 @@
             "id": "cc441a8ec710089b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rust/1. Hello world Rust.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Hello world Rust"
             }
           }
         ]
@@ -168,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Rust/1. Hello world Rust.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1. Hello world Rust"
             }
           },
           {
@@ -201,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Rust/1. Hello world Rust.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -231,12 +238,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fac8a3b02fffb4a6",
+  "active": "cc441a8ec710089b",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled.base",
     "LICENSE.md",
-    "Rust/Hello world rust.md",
+    "Rust/1. Hello world Rust.md",
     "Templates/📆 Daily Study Log {{date}}.md",
     "Rust/Programming a Guessing Game in Rust.md",
     "2025-11-05.md",
