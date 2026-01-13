@@ -75,3 +75,18 @@ This repo is a documentation of lessons learned from the Arden labs **Practical 
          return responseData, err
       }
       ```
+
+1. Working with files (basics)
+   In this example we created pretend server killer that when given a file path it kills the process by getting process id and deleting the file after killing pretend program.
+   - the **os** has many features and of them is Playing ▶️ with files 🗂️
+   - use the ``file, err := os.Open(pipFile)`` to open a file. Use the ``file.Fscanf(<path>, <format string>, a ...any)`` to read the file.
+   - Good lesson learned is that almost all **os** ops return error and the error needs to be handled correctly.
+   - use the ``defer`` keyword to close open file connections example: ``defer file.Close()``
+   - defer happens when function exits, no matter what ( even when a panic 😱 happens)
+   - defer works at the function  level ( don't us in a for loop ➰)
+   - defer works in reverse other (kind of like a Stack 📚 or think LIFO 🥞)
+   - Idiomatic use: try to to first acquire a resource, check for error, defer and releases
+   - The **slog** import can be used to print out Info(information) ℹ️, Warn(warding) ⚠️ and so on...
+   - even if a function has a return type of *error* you can return *nil*
+   > note: nil is like null in other programming languages (dart, rust)
+   > note: functions returning **error** are meant to force to thing about error handling.
