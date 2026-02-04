@@ -5,5 +5,3 @@ pub fn dog() {
 pub fn cat() {
     println!("Cat goes MEOW!");
 }
-
-pub mod tame;
