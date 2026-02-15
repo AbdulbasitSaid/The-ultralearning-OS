@@ -71,9 +71,11 @@ fn main() {
     // your future is ..."). Then uncomment and run the code below.
     //
     // Hint: There's a bit of commented-out code below the main function to help you get started.
-
-    // fortune(small_hat);
-    // fortune(2);
+    fn fortune<T: Colorful>(color: T) {
+        println!("The color I see in your future is {}", color.color())
+    }
+    fortune(small_hat);
+    fortune(2);
 }
 trait EvenOdd {
     fn is_even(&self) -> bool;
