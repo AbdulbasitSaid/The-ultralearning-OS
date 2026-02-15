@@ -7,7 +7,7 @@
 
 pub struct Polygon {
     pub name: String,
-    pub sides: u32,
+    sides: u32,
     pub visible: bool,
 }
 
@@ -43,5 +43,8 @@ impl Polygon {
     }
     pub fn increment_sides(&mut self) {
         self.sides += 1;
+    }
+    pub fn sides(&self) -> u32 {
+        self.sides
     }
 }
