@@ -28,7 +28,7 @@ pub struct Polygon {
 impl Polygon {
     pub fn new(name: String) -> Self {
         Self {
-            name: name,
+            name,
             sides: 3,
             visible: true,
         }
