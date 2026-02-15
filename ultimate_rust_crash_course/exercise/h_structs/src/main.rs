@@ -1,53 +1,7 @@
 // Silence some warnings so they don't distract from the exercise.
 #![allow(dead_code, unused_mut)]
 
-// 1. Create a struct named `Polygon` with the fields and their types listed below. Then build the
-// program with `cargo build` to ensure you don't have any syntax errors.
-//
-// - name - String
-// - sides - u32
-// - visible - bool
-
-struct Polygon {
-    name: String,
-    sides: u32,
-    visible: bool,
-}
-
-// 2. Create an implementation block for the `Polygon` struct.
-//
-// In the implementation block define an associated function named `new` that:
-// - accepts an argument `name` of type `String`
-// - returns a `Polygon` (you may use `Self` as an alias for `Polygon` inside of the `impl` block)
-//   - with `name` set to the value from the `name` argument.
-//   - with `sides` set to `3`
-//   - with `visible` set to `true`
-//
-// NOTE: Associated functions do NOT take a form a `self` as their first argument (that would turn
-// the function into a method)
-//
-// Then build the program with `cargo build` to ensure you don't have any syntax errors.
-
-impl Polygon {
-    fn new(name: String) -> Self {
-        Self {
-            name: name,
-            sides: 3,
-            visible: true,
-        }
-    }
-    fn shape(&self) -> String {
-        return match self.sides {
-            3 => "triangle".to_string(),
-            4 => "square".to_string(),
-            5 => "pentagon".to_string(),
-            _ => "polygon".to_string(),
-        };
-    }
-    fn increment_sides(&mut self) {
-        self.sides += 1;
-    }
-}
+use h_structs::*;
 
 fn main() {
     // 3. Create a new, mutable polygon variable by calling the Polygon's `new` associated function.
